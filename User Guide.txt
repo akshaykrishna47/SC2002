@@ -1,0 +1,9 @@
+-All the declarations are in the Declaration folder
+
+-sc2002Assigment folder contains the codes
+
+-"docs" folder inside sc2002Assignment is the javadocs
+
+- UML image is provided in the UML diagram folder for a clearer display
+
+-Access our dataset: Sc2002Assignment\src\Datasc2
