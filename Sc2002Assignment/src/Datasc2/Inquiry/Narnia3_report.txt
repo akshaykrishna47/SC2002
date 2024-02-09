@@ -1,0 +1,13 @@
+Inquiry Report for Camp: Narnia
+------------------------------------------------------
+Inquiry ID: 1
+User: CHERN
+Message: hi
+Replied By: KOH1
+Reply: hi
+------------------------------------------------------
+Inquiry ID: 2
+User: CHERN
+Message: Bye
+Replied By: KOH1
+Reply: bye

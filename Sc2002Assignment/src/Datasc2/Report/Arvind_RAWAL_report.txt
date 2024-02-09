@@ -1,0 +1,17 @@
+Visibility: true
+Camp Name: Ray
+Dates: [28/08/2024, 30/08/2024, 31/08/2024]
+Registration Closing Date: 31/12/2023
+User Group: NTU
+Location: skool
+Total Slots: 6
+Camp Committee Slots: 2
+Description: temple
+Staff in Charge: ARVI
+Camp Attendees: [Name: KOH, Student ID: KOH1, Name: RAWAL, Student ID: AKY013]
+Camp Members: [Name: KOH, Student ID: KOH1, Name: RAWAL, Student ID: AKY013]
+Camp Attendees: [Name: KOH, Student ID: KOH1, Name: RAWAL, Student ID: AKY013]
+Camp Members: [Name: KOH, Student ID: KOH1, Name: RAWAL, Student ID: AKY013]
+Available Camp Member Slots: 4
+Available Camp Committee Slots: 0
+

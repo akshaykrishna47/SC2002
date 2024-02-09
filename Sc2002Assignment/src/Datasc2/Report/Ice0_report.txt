@@ -1,0 +1,15 @@
+Visibility: false
+Camp Name: Ice
+Dates: 02/10/23 - 01/01/23
+Registration Closing Date: 01/10/23
+User Group: NTU
+Location: EDFGHGF
+Total Slots: 13
+Camp Committee Slots: 3
+Description: Ice cream
+Staff in Charge: ARVI
+Camp Attendees: [Name: CHERN, Student ID: YCHERN, Name: DONG, Student ID: DON84]
+Camp Members: [Name: DONG, Student ID: DON84, Name: LIU, Student ID: SL22, Name: CHERN, Student ID: YCHERN]
+Available Camp Member Slots: 11
+Available Camp Committee Slots: 0
+

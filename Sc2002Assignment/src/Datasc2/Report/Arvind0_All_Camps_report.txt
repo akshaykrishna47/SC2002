@@ -1,0 +1,102 @@
+Visibility: true
+Camp Name: chop
+Dates: [30/08/2024]
+Registration Closing Date: 24/07/24
+User Group: NTU
+Location: mall
+Total Slots: 58
+Camp Committee Slots: 4
+Description: buffet
+Staff in Charge: ARVI
+Camp Attendees: [Name: LIU, Student ID: SL22]
+Camp Members: []
+Camp Attendees: [Name: LIU, Student ID: SL22]
+Camp Members: []
+Available Camp Member Slots: 57
+Available Camp Committee Slots: 4
+
+Visibility: true
+Camp Name: apple
+Dates: [28/08/2024, 29/08/2024, 30/08/2024]
+Registration Closing Date: 31/10/2023
+User Group: NTU
+Location: park
+Total Slots: 10
+Camp Committee Slots: 5
+Description: fun
+Staff in Charge: ARVI
+Camp Attendees: []
+Camp Members: [Name: LEE, Student ID: LE51, Name: DENISE, Student ID: DL007]
+Camp Attendees: []
+Camp Members: [Name: LEE, Student ID: LE51, Name: DENISE, Student ID: DL007]
+Available Camp Member Slots: 10
+Available Camp Committee Slots: 3
+
+Visibility: false
+Camp Name: party
+Dates: [30/08/2024]
+Registration Closing Date: 20/04/2023
+User Group: NTU
+Location: Koufu
+Total Slots: 10
+Camp Committee Slots: 5
+Description: food
+Staff in Charge: ARVI
+Camp Attendees: [Name: CHAN, Student ID: YCN019]
+Camp Members: [Name: CHAN, Student ID: YCN019]
+Camp Attendees: [Name: CHAN, Student ID: YCN019]
+Camp Members: [Name: CHAN, Student ID: YCN019]
+Available Camp Member Slots: 9
+Available Camp Committee Slots: 4
+
+Visibility: true
+Camp Name: Narnia
+Dates: [05/10/2023]
+Registration Closing Date: 29/09/2023
+User Group: ADM
+Location: JEM
+Total Slots: 12
+Camp Committee Slots: 5
+Description: Fun times
+Staff in Charge: ARVI
+Camp Attendees: [Name: KOH, Student ID: KOH1]
+Camp Members: []
+Camp Attendees: [Name: KOH, Student ID: KOH1]
+Camp Members: []
+Available Camp Member Slots: 11
+Available Camp Committee Slots: 5
+
+Visibility: false
+Camp Name: Ice
+Dates: [02/10/2023]
+Registration Closing Date: 01/10/2023
+User Group: NTU
+Location: park
+Total Slots: 13
+Camp Committee Slots: 3
+Description: Ice cream
+Staff in Charge: ARVI
+Camp Attendees: [Name: CHERN, Student ID: YCHERN, Name: DONG, Student ID: DON84]
+Camp Members: [Name: DONG, Student ID: DON84, Name: LIU, Student ID: SL22, Name: CHERN, Student ID: YCHERN]
+Camp Attendees: [Name: CHERN, Student ID: YCHERN, Name: DONG, Student ID: DON84]
+Camp Members: [Name: DONG, Student ID: DON84, Name: LIU, Student ID: SL22, Name: CHERN, Student ID: YCHERN]
+Available Camp Member Slots: 11
+Available Camp Committee Slots: 0
+
+Visibility: true
+Camp Name: Ray
+Dates: [28/08/2024, 30/08/2024, 31/08/2024]
+Registration Closing Date: 31/12/2023
+User Group: NTU
+Location: skool
+Total Slots: 6
+Camp Committee Slots: 2
+Description: temple
+Staff in Charge: ARVI
+Camp Attendees: [Name: KOH, Student ID: KOH1, Name: RAWAL, Student ID: AKY013]
+Camp Members: [Name: KOH, Student ID: KOH1, Name: RAWAL, Student ID: AKY013]
+Camp Attendees: [Name: KOH, Student ID: KOH1, Name: RAWAL, Student ID: AKY013]
+Camp Members: [Name: KOH, Student ID: KOH1, Name: RAWAL, Student ID: AKY013]
+Available Camp Member Slots: 4
+Available Camp Committee Slots: 0
+

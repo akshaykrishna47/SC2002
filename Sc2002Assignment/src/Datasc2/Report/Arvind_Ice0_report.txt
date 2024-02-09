@@ -1,0 +1,17 @@
+Visibility: false
+Camp Name: Ice
+Dates: [02/10/2023]
+Registration Closing Date: 01/10/2023
+User Group: NTU
+Location: park
+Total Slots: 13
+Camp Committee Slots: 3
+Description: Ice cream
+Staff in Charge: ARVI
+Camp Attendees: [Name: CHERN, Student ID: YCHERN, Name: DONG, Student ID: DON84]
+Camp Members: [Name: DONG, Student ID: DON84, Name: LIU, Student ID: SL22, Name: CHERN, Student ID: YCHERN]
+Camp Attendees: [Name: CHERN, Student ID: YCHERN, Name: DONG, Student ID: DON84]
+Camp Members: [Name: DONG, Student ID: DON84, Name: LIU, Student ID: SL22, Name: CHERN, Student ID: YCHERN]
+Available Camp Member Slots: 11
+Available Camp Committee Slots: 0
+

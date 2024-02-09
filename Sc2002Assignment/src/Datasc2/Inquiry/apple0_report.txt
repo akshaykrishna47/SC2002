@@ -1,0 +1,13 @@
+Inquiry Report for Camp: apple
+------------------------------------------------------
+Inquiry ID: 1
+User: CHERN
+Message: will there be transport?
+Replied By: ARVI
+Reply: yes
+------------------------------------------------------
+Inquiry ID: 2
+User: CHERN
+Message: why is it slow
+Replied By: ARVI
+Reply: it js is

@@ -1,0 +1,15 @@
+Visibility: false
+Camp Name: chop
+Dates: 9876
+Registration Closing Date: 9876
+User Group: NTU
+Location: mall	
+Total Slots: 20
+Camp Committee Slots: 5
+Description: ololol
+Staff in Charge: ARVI
+Camp Attendees: []
+Camp Members: []
+Available Camp Member Slots: 20
+Available Camp Committee Slots: 5
+

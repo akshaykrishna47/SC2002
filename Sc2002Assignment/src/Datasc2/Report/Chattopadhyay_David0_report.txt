@@ -1,0 +1,17 @@
+Visibility: true
+Camp Name: David
+Dates: [28/11/2023, 29/11/2023]
+Registration Closing Date: 20/11/2023
+User Group: NTU
+Location: Lake
+Total Slots: 14
+Camp Committee Slots: 4
+Description: Eco-friendly
+Staff in Charge: UPAM
+Camp Attendees: []
+Camp Members: []
+Camp Attendees: []
+Camp Members: []
+Available Camp Member Slots: 14
+Available Camp Committee Slots: 4
+

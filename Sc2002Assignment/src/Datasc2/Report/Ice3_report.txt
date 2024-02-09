@@ -1,0 +1,13 @@
+Camp Name: Ice
+Dates: [12/10/2024]
+Registration Closing Date: 01/10/2024
+User Group: NTU
+Location: Mountains
+Total Slots: 13
+Camp Committee Slots: 3
+Description: Educational
+Staff in Charge: ARVI
+Camp Attendees: [Name: DENISE, Student ID: DL007]
+Available Camp Member Slots: 11
+Available Camp Committee Slots: 2
+

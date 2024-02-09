@@ -1,0 +1,79 @@
+Inquiry Report for Camp: Ice
+------------------------------------------------------
+Inquiry ID: 1
+User: CHERN
+Message: Hows the pasta
+Replied By: ARVI
+Reply: its trash
+------------------------------------------------------
+Inquiry ID: 2
+User: KOH
+Message: is it cold?
+Replied By: null
+Reply: null
+------------------------------------------------------
+Inquiry ID: 3
+User: BRANDON
+Message: can i bring my laptop?
+Replied By: DON84
+Reply: up to you
+------------------------------------------------------
+Inquiry ID: 4
+User: CALVIN
+Message: why is it so hard
+Replied By: YCHERN
+Reply: yes
+------------------------------------------------------
+Inquiry ID: 5
+User: CALVIN
+Message: will it be cold
+Replied By: YCHERN
+Reply: no
+------------------------------------------------------
+Inquiry ID: 6
+User: CALVIN
+Message: hello
+Replied By: YCHERN
+Reply: hello
+------------------------------------------------------
+Inquiry ID: 7
+User: CALVIN
+Message: will it be boring
+Replied By: YCHERN
+Reply: no
+------------------------------------------------------
+Inquiry ID: 8
+User: CALVIN
+Message: can bring my cat
+Replied By: DON84
+Reply: no
+------------------------------------------------------
+Inquiry ID: 9
+User: CALVIN
+Message: How long is it
+Replied By: SL22
+Reply: very long
+------------------------------------------------------
+Inquiry ID: 10
+User: CALVIN
+Message: got free transport?
+Replied By: SL22
+Reply: shutter bus provided
+------------------------------------------------------
+Inquiry ID: 11
+User: CALVIN
+Message: can i bring my cat
+Replied By: DON84
+Reply: of course you can
+------------------------------------------------------
+Inquiry ID: 12
+User: CALVIN
+Message: can i bring my grandpa
+Replied By: DON84
+Reply: yes you can bring anyone
+------------------------------------------------------
+Inquiry ID: 13
+User: LIU
+Message: Must i bring passport
+Replied By: YCHERN
+Reply: nope

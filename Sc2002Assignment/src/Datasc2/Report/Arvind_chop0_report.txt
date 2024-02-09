@@ -1,0 +1,17 @@
+Visibility: true
+Camp Name: chop
+Dates: [01/01/2024, 02/01/2024, 03/01/2024]
+Registration Closing Date: 29/12/2023
+User Group: NTU
+Location: Beach
+Total Slots: 12
+Camp Committee Slots: 5
+Description: Rustic
+Staff in Charge: ARVI
+Camp Attendees: [Name: BRANDON, Student ID: BR015, Name: CHAN, Student ID: YCN019]
+Camp Members: [Name: CALVIN, Student ID: CT113]
+Camp Attendees: [Name: BRANDON, Student ID: BR015, Name: CHAN, Student ID: YCN019]
+Camp Members: [Name: CALVIN, Student ID: CT113]
+Available Camp Member Slots: 9
+Available Camp Committee Slots: 4
+

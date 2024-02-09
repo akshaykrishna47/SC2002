@@ -1,0 +1,85 @@
+Visibility: true
+Camp Name: chop
+Dates: [01/01/2024, 02/01/2024, 03/01/2024]
+Registration Closing Date: 29/12/2023
+User Group: NTU
+Location: Beach
+Total Slots: 12
+Camp Committee Slots: 5
+Description: Rustic
+Staff in Charge: ARVI
+Camp Attendees: [Name: BRANDON, Student ID: BR015, Name: CHAN, Student ID: YCN019]
+Camp Members: [Name: CALVIN, Student ID: CT113]
+Camp Attendees: [Name: BRANDON, Student ID: BR015, Name: CHAN, Student ID: YCN019]
+Camp Members: [Name: CALVIN, Student ID: CT113]
+Available Camp Member Slots: 9
+Available Camp Committee Slots: 4
+
+Visibility: true
+Camp Name: apple
+Dates: [28/08/2024, 29/08/2024, 30/08/2024]
+Registration Closing Date: 18/11/2023
+User Group: NTU
+Location: Beach
+Total Slots: 10
+Camp Committee Slots: 5
+Description: Serene
+Staff in Charge: ARVI
+Camp Attendees: []
+Camp Members: []
+Camp Attendees: []
+Camp Members: []
+Available Camp Member Slots: 10
+Available Camp Committee Slots: 5
+
+Visibility: true
+Camp Name: party
+Dates: [30/08/2024]
+Registration Closing Date: 20/04/2024
+User Group: NTU
+Location: Forest
+Total Slots: 10
+Camp Committee Slots: 5
+Description: Adventurous
+Staff in Charge: ARVI
+Camp Attendees: []
+Camp Members: []
+Camp Attendees: []
+Camp Members: []
+Available Camp Member Slots: 10
+Available Camp Committee Slots: 5
+
+Visibility: true
+Camp Name: Ice
+Dates: [12/10/2024]
+Registration Closing Date: 01/10/2024
+User Group: NTU
+Location: Mountains
+Total Slots: 13
+Camp Committee Slots: 3
+Description: Educational
+Staff in Charge: ARVI
+Camp Attendees: [Name: DENISE, Student ID: DL007]
+Camp Members: [Name: DONG, Student ID: DON84]
+Camp Attendees: [Name: DENISE, Student ID: DL007]
+Camp Members: [Name: DONG, Student ID: DON84]
+Available Camp Member Slots: 11
+Available Camp Committee Slots: 2
+
+Visibility: true
+Camp Name: Ray
+Dates: [28/08/2024, 30/08/2024, 31/08/2024]
+Registration Closing Date: 28/11/2023
+User Group: NTU
+Location: Desert
+Total Slots: 8
+Camp Committee Slots: 2
+Description: Tranquil
+Staff in Charge: ARVI
+Camp Attendees: [Name: CALVIN, Student ID: CT113, Name: CHAN, Student ID: YCN019, Name: DONG, Student ID: DON84]
+Camp Members: [Name: BRANDON, Student ID: BR015, Name: DENISE, Student ID: DL007]
+Camp Attendees: [Name: CALVIN, Student ID: CT113, Name: CHAN, Student ID: YCN019, Name: DONG, Student ID: DON84]
+Camp Members: [Name: BRANDON, Student ID: BR015, Name: DENISE, Student ID: DL007]
+Available Camp Member Slots: 3
+Available Camp Committee Slots: 0
+

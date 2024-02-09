@@ -1,0 +1,14 @@
+Visibility: true
+Camp Name: Narnia
+Dates: 05/10/23
+Registration Closing Date: 29/09/23
+User Group: NTU
+Location: JEM
+Total Slots: 10
+Camp Committee Slots: 5
+Description: Fun times
+Staff in Charge: ARVI
+Camp Attendees: []
+Available Camp Member Slots: 10
+Available Camp Committee Slots: 4
+

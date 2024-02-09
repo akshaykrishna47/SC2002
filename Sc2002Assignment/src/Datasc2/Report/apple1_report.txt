@@ -1,0 +1,15 @@
+Visibility: true
+Camp Name: apple
+Dates: [28/08/2024, 29/08/2024, 30/08/2024]
+Registration Closing Date: 18/11/2023
+User Group: NTU
+Location: park
+Total Slots: 10
+Camp Committee Slots: 5
+Description: fun
+Staff in Charge: ARVI
+Camp Attendees: [Name: CHERN, Student ID: YCHERN]
+Camp Members: [Name: KOH, Student ID: KOH1]
+Available Camp Member Slots: 8
+Available Camp Committee Slots: 4
+

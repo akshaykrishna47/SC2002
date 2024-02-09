@@ -1,0 +1,17 @@
+Visibility: true
+Camp Name: AK
+Dates: [10/08/2024]
+Registration Closing Date: 18/07/2023
+User Group: NTU
+Location: pioneer
+Total Slots: 10
+Camp Committee Slots: 2
+Description: bombastic
+Staff in Charge: HUKUMAR
+Camp Attendees: []
+Camp Members: []
+Camp Attendees: []
+Camp Members: []
+Available Camp Member Slots: 10
+Available Camp Committee Slots: 2
+
